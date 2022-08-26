@@ -1,0 +1,5 @@
+let nome = "Ellen Tairine"
+let email = "contatosocial22@gmail.com"
+let profissao = "Dev Web Junior"
+let idade = "31"
+let lugar = "Punta Cana"
